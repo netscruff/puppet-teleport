@@ -1,6 +1,6 @@
 # puppet-teleport
 
-[![Build Status](https://travis-ci.org/jaxxstorm/puppet-teleport.svg?branch=master)](https://travis-ci.org/jaxxstorm/puppet-teleport)
+[![Build Status](https://travis-ci.org/netscruff/puppet-teleport.svg?branch=master)](https://travis-ci.org/netscruff/puppet-teleport)
 
 #### Table of Contents
 
